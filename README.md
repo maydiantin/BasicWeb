@@ -1,2 +1,2 @@
 # BasicWeb
-Stuying Web Programming
+Stuyding Web Programming
